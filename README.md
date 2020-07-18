@@ -1,3 +1,3 @@
 # ResturantEclipse
 
-This is my Restuaruant Finder Project written in JAVA and uses REST API. This is a server side implementation using Apache Tomcat Web Server and MySQL.  
+The Web Server uses Servlet, MYSQL and JSON to parse data
